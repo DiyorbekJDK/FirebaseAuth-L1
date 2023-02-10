@@ -1,0 +1,6 @@
+package org.diyorbek.firebaseauth_l1.model
+
+data class User(
+    val email: String = "",
+    val password: String = ""
+)
